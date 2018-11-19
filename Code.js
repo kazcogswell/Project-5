@@ -68,7 +68,7 @@ function populateDownloads() {
         } else {
             console.log('That is an invalid answer.')
         }
-    } console.log ('pp '+downloads[3]+ ' boi')
+    }
 }
 
 function printReceipt() {
